@@ -41,13 +41,6 @@ will be able to see corresponding parent</p> </br></br>
 </br>
 
 
-
-<h2>Contributors:</h2></br>
-<p>Chris Evers </br>
-Dustin Cox </br>
-Lauren Cameron </br>
-Phillip Hernandez</p> </br>
-
 <h2>Teachers & TAs:</h2></br>
 <p>Michael Buchholz</br>
 Mari Jayne Frederick</br>
