@@ -65,7 +65,7 @@ Member (Researcher): Chris Evers</br>
 
 User Types and Roles
 
-<img src="SFSeniorProject2021Group3.wiki/rolesAndType.png" />
+<img src="./SFSeniorProject2021Group3.wiki/rolesAndType.png" />
 
 
 
