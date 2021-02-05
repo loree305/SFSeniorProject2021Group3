@@ -1,4 +1,4 @@
-<h1>Welcome to the SFSeniorProject2021Group3 wiki!</h1>
+<h1>Welcome to the SFSeniorProject2021Group3</h1>
 
 Project Name: School Registration System
 
