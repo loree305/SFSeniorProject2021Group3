@@ -14,6 +14,13 @@ Parents will be able to view their own student schedule and grades. </br>
 Teachers will be able to edit grades, view schedules, create student data for corresponding courses, view student data. Teacher </br>
 will be able to see corresponding parent</p> </br></br>
 
+<h2>The Team</h2>
+<img src="https://courses.sfcollege.edu/images/thumbnails/33034152/DdtVWZbop0We3aZ301ABvi2m0CJIXmNHUQeYYdQt" />
+<img src="https://courses.sfcollege.edu/images/thumbnails/24277326/Ya6KjHxfxSq5jIXUTDGJV6CE16hY6Xgi9FiJfQV9" />
+<img src="https://courses.sfcollege.edu/images/thumbnails/26690696/wYAZZ851OYwEeAtMb0d4bjI4nG2sOGyOTrdezXNp" />
+<img src="https://courses.sfcollege.edu/images/thumbnails/23040304/oFja9TYTGIwzs5ItXdNkB60OfYmvp6FKevydzcPl" />
+
+
 <h2>Contributors:</h2></br>
 <p>Chris Evers </br>
 Dustin Cox </br>
@@ -30,7 +37,7 @@ Debbie Reid</p></br>
 DB: MYSQL</P></br>
 
 <p>
-<b>Project Management:</b>Asana *If Monday.com would have not spammed youtube, I might have chosen that one. -Dustin Cox</br>
+<b>Project Management:</b>Asana </br>
 <b>Project Communication:</b> Slack and Canvas </p></br>
 
 <h2>Phase 1 -  Project Analysis Phase</h2></br>
@@ -39,31 +46,31 @@ Recorder: Dustin Cox</br>
 Coordinator: Chris Evers</br>
 Member (Researcher): Lauren Cameron</p></br>
 
-Phase 2 - Project Architecture</br>
-Lead: Lauren Cameron</br>
+<h2>Phase 2 - Project Architecture</h2</br>
+<p>Lead: Lauren Cameron</br>
 Recorder: Chris Evers</br>
 Coordinator: Phillip Hernandez</br>
-Member (Researcher): Dustin Cox</br>
+Member (Researcher): Dustin Cox</p></br>
 
-Phase 3 - Development</br>
-Lead: Dustin Cox</br>
+<h2>Phase 3 - Development</h2></br>
+<p>Lead: Dustin Cox</br>
 Recorder: Phillip Hernandez</br>
 Coordinator: Lauren Cameron</br>
-Member (Researcher): Chris Evers</br>
+Member (Researcher): Chris Evers</p></br>
 
-Phase 4 - Implementation and Testing</br>
-Lead: Phillip Hernandez</br>
+<h2>Phase 4 - Implementation and Testing</h2></br>
+<p>Lead: Phillip Hernandez</br>
 Recorder: Dustin Cox</br>
 Coordinator: Chris Evers</br>
-Member (Researcher): Lauren Cameron</br>
+Member (Researcher): Lauren Cameron</p></br>
 
-Phase 5 - Software Update and Marketing Plans</br>
-Lead: Dustin Cox</br>
+<h2>Phase 5 - Software Update and Marketing Plans</h2></br>
+<p>Lead: Dustin Cox</br>
 Recorder: Lauren Cameron</br>
 Coordinator: Phillip Hernandez</br>
-Member (Researcher): Chris Evers</br>
+Member (Researcher): Chris Evers</p></br>
 
-User Types and Roles
+<h2>User Types and Roles</h2>
 
 <img src="assets/img/rolesAndType.png" />
 
