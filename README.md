@@ -15,25 +15,25 @@ Teachers will be able to edit grades, view schedules, create student data for co
 will be able to see corresponding parent</p> </br></br>
 
 <h2>The Team</h2></br>
-<table style="width:100%">
+<table>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td><img src="https://courses.sfcollege.edu/images/thumbnails/33034152/DdtVWZbop0We3aZ301ABvi2m0CJIXmNHUQeYYdQt" /></td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td><img src="https://courses.sfcollege.edu/images/thumbnails/24277326/Ya6KjHxfxSq5jIXUTDGJV6CE16hY6Xgi9FiJfQV9" /></td>
-  </tr>
-  <tr>
-    <td>Test</td>
-    <td>user</td>
+    <td>Chris</td>
+    <td>Evers</td>
     <td><img src="https://courses.sfcollege.edu/images/thumbnails/26690696/wYAZZ851OYwEeAtMb0d4bjI4nG2sOGyOTrdezXNp" /></td>
   </tr>
+  <tr>
+    <td>Dustin</td>
+    <td>Cox</td>
+    <td><img src="https://courses.sfcollege.edu/images/thumbnails/24277326/Ya6KjHxfxSq5jIXUTDGJV6CE16hY6Xgi9FiJfQV9" /></td>
+  </tr>
     <tr>
-    <td>Test</td>
-    <td>user</td>
+    <td>Lauren</td>
+    <td>Cameron</td>
+    <td><img src="https://courses.sfcollege.edu/images/thumbnails/33034152/DdtVWZbop0We3aZ301ABvi2m0CJIXmNHUQeYYdQt" /></td>
+  </tr>
+   <tr>
+    <td>Phillip</td>
+    <td>Hernandez</td>
     <td><img src="https://courses.sfcollege.edu/images/thumbnails/23040304/oFja9TYTGIwzs5ItXdNkB60OfYmvp6FKevydzcPl" /></td>
   </tr>
 </table>
