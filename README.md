@@ -1,4 +1,4 @@
-Welcome to the SFSeniorProject2021Group3 wiki!
+<h1>Welcome to the SFSeniorProject2021Group3 wiki!</h1>
 
 Project Name: School Registration System
 
@@ -61,6 +61,8 @@ Lead: Dustin Cox</br>
 Recorder: Lauren Cameron</br>
 Coordinator: Phillip Hernandez</br>
 Member (Researcher): Chris Evers</br>
+
+User Types and Roles
 
 
 
