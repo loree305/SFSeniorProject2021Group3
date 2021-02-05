@@ -15,7 +15,7 @@ Teachers will be able to edit grades, view schedules, create student data for co
 will be able to see corresponding parent</p> </br></br>
 
 <h2>The Team</h2></br>
-<table>
+<table style="border: none">
   <tr>
     <td>Chris</td>
     <td>Evers</td>
