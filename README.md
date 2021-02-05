@@ -14,11 +14,11 @@ Parents will be able to view their own student schedule and grades. </br>
 Teachers will be able to edit grades, view schedules, create student data for corresponding courses, view student data. Teacher </br>
 will be able to see corresponding parent</p> </br></br>
 
-<h2>The Team</h2>
-<img src="https://courses.sfcollege.edu/images/thumbnails/33034152/DdtVWZbop0We3aZ301ABvi2m0CJIXmNHUQeYYdQt" />
-<img src="https://courses.sfcollege.edu/images/thumbnails/24277326/Ya6KjHxfxSq5jIXUTDGJV6CE16hY6Xgi9FiJfQV9" />
-<img src="https://courses.sfcollege.edu/images/thumbnails/26690696/wYAZZ851OYwEeAtMb0d4bjI4nG2sOGyOTrdezXNp" />
-<img src="https://courses.sfcollege.edu/images/thumbnails/23040304/oFja9TYTGIwzs5ItXdNkB60OfYmvp6FKevydzcPl" />
+<h2>The Team</h2></br>
+<img src="https://courses.sfcollege.edu/images/thumbnails/33034152/DdtVWZbop0We3aZ301ABvi2m0CJIXmNHUQeYYdQt" /></br>
+<img src="https://courses.sfcollege.edu/images/thumbnails/24277326/Ya6KjHxfxSq5jIXUTDGJV6CE16hY6Xgi9FiJfQV9" /></br>
+<img src="https://courses.sfcollege.edu/images/thumbnails/26690696/wYAZZ851OYwEeAtMb0d4bjI4nG2sOGyOTrdezXNp" /></br>
+<img src="https://courses.sfcollege.edu/images/thumbnails/23040304/oFja9TYTGIwzs5ItXdNkB60OfYmvp6FKevydzcPl" /></br>
 
 
 <h2>Contributors:</h2></br>
