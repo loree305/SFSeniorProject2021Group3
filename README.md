@@ -60,7 +60,7 @@ Recorder: Dustin Cox</br>
 Coordinator: Chris Evers</br>
 Member (Researcher): Lauren Cameron</p></br>
 
-<h2>Phase 2 - Project Architecture</h2</br>
+<h2>Phase 2 - Project Architecture</h2></br>
 <p>Lead: Lauren Cameron</br>
 Recorder: Chris Evers</br>
 Coordinator: Phillip Hernandez</br>
