@@ -1,0 +1,109 @@
+#--School Registration script file
+
+#-- Create the database
+
+DROP database if exists SchoolRegistrationSystem;
+
+CREATE database SchoolRegistrationSystem;
+
+USE SchoolRegistrationSystem;
+
+/********************************************
+load SchoolRegistrationSystem database tables:
+			ClassRegistration
+			UserRegistration
+			User
+			StudentData
+			GradeEvent
+
+*********************************************/
+
+
+
+
+#-- Create the UserRegistration tables
+
+create table UserRegistration
+(RegistrationId		int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+FirstName			varchar(30) not null,
+LastName			varchar(30) not null,
+Age					int(2) not null,
+EmailAddress		varchar(30),
+Passwordd			varchar(30),
+Address				varchar(20) not null,
+PhoneNumber			int(10) not null,
+Grade				int(2),
+UserType			varchar(20) not null,
+IsParent			boolean not null,
+Dependents			varchar(25) not null
+
+
+);
+
+#-- Create the User tables
+
+create table Users
+(UserId				int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+Currentt			varchar(3) not null,
+Rolee				varchar(20) not null,
+FirstName			varchar(30) not null,
+LastName			varchar(30) not null,
+PhoneNumber			int(10) not null
+
+    
+
+);
+
+
+
+
+
+#-- Create the ClassRegistration tables
+
+create table ClassRegistration
+(ClassId                  int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+ClassName                 varchar(20) not null
+
+
+);
+
+create table UserConnection
+(UserId		int NOT NULL,
+ClassId		int NOT NULL,
+RegistrationiD int NOT NULL
+);
+
+#-- Create the StudentData table
+
+create table StudentData
+(StudentId 		int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+FirstName		varchar(30) not null,
+LastName		varchar(30) not null,
+Birthday 		date not null,
+Address			varchar(20) not null,
+City			varchar(30) not null,
+Zip				int(5) not null,
+PhoneNumber		int(10) not null
+
+);
+
+create table StudentjoinUser
+(StudentId int NOT NULL,
+UserId		int NOT NULL
+);
+#-- Create the GradeEvent table
+
+create table GradeEvent
+(EventId		int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+Homework		varchar(30) not null,
+Test			varchar(30) not null,
+Grades			float(2)  ,
+Gpa				float(3)  null default 0
+
+);
+
+create table Gradejoinstudent
+(EventId    int NOT NULL,
+ClassId	    int NOT NULL,
+StudentId	int NOT NULL
+);
